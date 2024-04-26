@@ -1,16 +1,11 @@
 <h1 align="center"> Hi there 👋, I'm Zhansaya</h1>
 
 <img width="1200" alt="Screenshot 2024-04-26 at 3 51 53 PM" src="https://github.com/yujansaya/yujansaya/assets/109923065/affb0ed0-6c06-4032-a44e-9739785614ac">
-
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=ML/AI+Engineer;Software+Developer;%20LLMs%20|%20GenAI%20|%20DataScience+Enthusiast;%20Python%20|%20PyTorch%20|%20Tensorflow|%20Scikit-learn;Continuous%20learner&center=true&width=380&height=45">
-	</a>
-</p>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=ML/AI+Engineer;Software+Developer;%20LLMs%20|%20GenAI%20|%20DataScience+Enthusiast;%20Python%20|%20PyTorch%20|%20Tensorflow|%20Scikit-learn;Continuous%20learner" alt="Typing SVG" /></a></div>
 
 <pre>
 💻 I am developing my skills as a ML/AI Engineer | Enthuastic about new technologies
-📚 I have a Bachelors and Masters in Computer Science and a Masters in Artificial Intelligence & Deep Learning
+📚 I have a Bachelors and Masters in Computer Science
 📝 I have a strong interest in building ML/AI applications
 🔭 
 🌱 Focusing on Learning about customer needs and making their lives easier
