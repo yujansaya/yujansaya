@@ -8,9 +8,18 @@
 📚 I have a Bachelors and Masters in Computer Science
 📝 I have a strong interest in building ML/AI applications
 🔭 
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+🌱 I believe in the power of continuous learning and am always on the lookout for opportunities to broaden my skill set. Currently, I'm diving deeper into Generative AI.
+💼 My Expertise
+  - Languages: Python, Java, Swift, Dart, HTML, CSS
+  - Frameworks: TensorFlow,PyTorch,Scikit-learn,Keras
+  - Deep Learning: CNNs, RNNs, transfer learning
+  - Engineering: Data preprocessing, pipelines
+  - Data analysis tools: Pandas, NumPy, SQL
+  - Data Visualization: Matplotlib, Seaborn
+  - LLMs: fine-tuning, text generation,summarization
+  - Hugging Face: Transformers, fine-tuning, pipeline usage 
+  
+🚩 Interested in Full Stack Machine Learning Application development, fine-tuning LLMs, 
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -38,5 +47,5 @@
 
 ---
 
-[StefanosSt](https://github.com/yujansaya)
+[Zhansaya Yussupova](https://github.com/yujansaya)
 Last Edited on : 26/04/2024
