@@ -1,25 +1,38 @@
-<h1 align="center"> Hi there 👋, I'm Zhansaya</h1>
+<div align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=🚀+Shaping+Tomorrow+with+AI/ML" alt="Typing SVG" /></a></div>
+<h1 align="center"; font-family='serif';> 👋 Hello, World! I'm Zhansaya</h1>
+<img width="1100" alt="Screenshot 2024-04-27 at 3 06 36 PM" src="https://github.com/yujansaya/yujansaya/assets/109923065/3ff209b7-f27d-4b9f-acbb-1f5cd1074568">
 
-<img width="1200" alt="Screenshot 2024-04-26 at 3 51 53 PM" src="https://github.com/yujansaya/yujansaya/assets/109923065/affb0ed0-6c06-4032-a44e-9739785614ac">
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=ML/AI+Engineer;Software+Developer;%20LLMs%20|%20GenAI%20|%20DataScience+Enthusiast;%20Python%20|%20PyTorch%20|%20Tensorflow|%20Scikit-learn;Continuous%20learner" alt="Typing SVG" /></a></div>
 
 <pre>
-💻 I am developing my skills as a ML/AI Engineer | Enthuastic about new technologies
-📚 I have a Bachelors and Masters in Computer Science
-📝 I have a strong interest in building ML/AI applications
-🔭 
-🌱 I believe in the power of continuous learning and am always on the lookout for opportunities to broaden my skill set. Currently, I'm diving deeper into Generative AI.
-💼 My Expertise
-  - Languages: Python, Java, Swift, Dart, HTML, CSS
-  - Frameworks: TensorFlow,PyTorch,Scikit-learn,Keras
-  - Deep Learning: CNNs, RNNs, transfer learning
-  - Engineering: Data preprocessing, pipelines
-  - Data analysis tools: Pandas, NumPy, SQL
-  - Data Visualization: Matplotlib, Seaborn
-  - LLMs: fine-tuning, text generation,summarization
-  - Hugging Face: Transformers, fine-tuning, pipeline usage 
+🌟 Dynamic software artisan stepping into AI/ML Engineering. 
+   Fluent in the languages of code and curiosity, I craft solutions that bridge the gap between innovation and impact. 
   
-🚩 Interested in Full Stack Machine Learning Application development, fine-tuning LLMs, 
+📚 I have a Bachelors and Masters in Computer Science.
+  
+📝 My recent hobby is Kaggle: perfect way to put my ML/AI knowledge in practice. <a href="https://www.kaggle.com/yujansaya">Visit My Kaggle Profile</a>
+  
+🌱 I believe in the power of continuous learning and I am always on the lookout for opportunities to broaden my skill set. 
+   Currently, I'm diving deeper into Generative AI.
+  
+💼 Storytelling Through Experience
+  - Full-Time Parenting, Career Rebirth: Juggling motherhood and career aspirations.
+  - Freelance Mobile App Developer: Bringing ideas to life, one app at a time.
+  - Software Developer, Kaspi Bank: Building digital solutions and embracing innovation.
+
+💃🏻 Beyond the Keyboard
+  - Dance Enthusiast: Grooving to the rhythm of life, from salsa to cyberspace.
+  - Yoga Practitioner: Finding balance in a world of bytes and bits.
+  - Literature Lover: Getting lost in the pages of history and fiction.
+  - Travel Junkie: Exploring new cultures and cuisines.
+  - Charity Advocate: Making a difference, one small act of kindness at a time.
+
+🛠️ Recent Projects:
+  - Flask Web App for Audio & Sentiment: Turning audio into insights with Flask. <a href="https://github.com/yujansaya/diarization_sentiment_analyse">Details</a>
+  - Brainwave Exploration with TensorFlow: Unraveling the mysteries of brainwaves. <a href="https://github.com/yujansaya/harmful_brain_acitivity">Details</a>
+  - Gemma's Writing Adventures: Crafting prompts with Gemma's help. <a href="https://github.com/yujansaya/gemma_prompt_recovery">Details</a>
+  - Math Solver AI: Solving math problems with the power of AI. <a href="https://github.com/yujansaya/ai_math_solver">Details</a>
+  - Predicting Molecular Bindings: Delving into the world of molecular interactions. <a href="https://github.com/yujansaya/molecule_binding_prediction">Details</a>
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
