@@ -5,34 +5,35 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=ML/AI+Engineer;Software+Developer;%20LLMs%20|%20GenAI%20|%20DataScience+Enthusiast;%20Python%20|%20PyTorch%20|%20Tensorflow|%20Scikit-learn;Continuous%20learner" alt="Typing SVG" /></a></div>
 
 <pre>
-🌟 Dynamic software artisan stepping into AI/ML Engineering. 
-   Fluent in the languages of code and curiosity, I craft solutions that bridge the gap between innovation and impact. 
-  
-📚 I have a Bachelors and Masters in Computer Science.
-  
-📝 My recent hobby is Kaggle: perfect way to put my ML/AI knowledge in practice. <a href="https://www.kaggle.com/yujansaya">Visit My Kaggle Profile</a>
-  
-🌱 I believe in the power of continuous learning and I am always on the lookout for opportunities to broaden my skill set. 
-   Currently, I'm diving deeper into Generative AI.
-  
-💼 Storytelling Through Experience
-  - Full-Time Parenting, Career Rebirth: Juggling motherhood and career aspirations.
-  - Freelance Mobile App Developer: Bringing ideas to life, one app at a time.
-  - Software Developer, Kaspi Bank: Building digital solutions and embracing innovation.
+   💣 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗙𝗼𝘂𝗻𝗱𝗲𝗿 | 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗼𝗿 💣
+   I don’t just build software—I create solutions that transform challenges into opportunities, 
+   leveraging AI, LLMs, and cutting-edge technologies to optimize workflows, 
+   empower teams, and make complex tasks effortless.
 
-💃🏻 Beyond the Keyboard
-  - Dance Enthusiast: Grooving to the rhythm of life, from salsa to cyberspace.
-  - Yoga Practitioner: Finding balance in a world of bytes and bits.
-  - Literature Lover: Getting lost in the pages of history and fiction.
-  - Travel Junkie: Exploring new cultures and cuisines.
-  - Charity Advocate: Making a difference, one small act of kindness at a time.
+   🚀 𝗪𝗵𝗮𝘁 𝗜’𝘃𝗲 𝗕𝗲𝗲𝗻 𝗨𝗽 𝗧𝗼:
+   At Stable Club, I’m at the forefront of integrating AI into data pipelines and business processes. 
+   From automating workflows for RevOps and sales teams to analyzing client data for tailored solutions,
+   my work turns data into actionable insights and delivers tangible results.
 
-🛠️ Recent Projects:
-  - Flask Web App for Audio & Sentiment: Turning audio into insights with Flask. <a href="https://github.com/yujansaya/diarization_sentiment_analyse">Details</a>
-  - Brainwave Exploration with TensorFlow: Unraveling the mysteries of brainwaves. <a href="https://github.com/yujansaya/harmful_brain_acitivity">Details</a>
-  - Gemma's Writing Adventures: Crafting prompts with Gemma's help. <a href="https://github.com/yujansaya/gemma_prompt_recovery">Details</a>
-  - Math Solver AI: Solving math problems with the power of AI. <a href="https://github.com/yujansaya/ai_math_solver">Details</a>
-  - Predicting Molecular Bindings: Delving into the world of molecular interactions. <a href="https://github.com/yujansaya/molecule_binding_prediction">Details</a>
+   As a Technical Founder in the Carbon13 Venture Builder program, 
+   I’m leading the development of an innovative Flutter app for researchers monitoring soil gas emissions. 
+   Think real-time satellite data, heat maps, and AI-powered uncertainty estimations—all in one sleek tool, 
+   making climate science more effective than ever.
+
+   😲 𝗧𝗵𝗲 𝗛𝘂𝗺𝗮𝗻 𝗕𝗲𝗵𝗶𝗻𝗱 𝘁𝗵𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿:
+   ⇢ First in my family to attend university, earning full scholarships from Kazakh and Chinese governments.
+   ⇢ Battled gender bias to carve a path in machine learning, becoming a role model for my daughter and others.
+   ⇢ After a career break, I reignited my passion for AI—not just to build a career, but to inspire others to chase their dreams fearlessly.
+
+   🥷🏼 𝗪𝗵𝘆 𝗪𝗼𝗿𝗸 𝗪𝗶𝘁𝗵 𝗠𝗲?
+   With experience spanning Asia, Latin America, and Europe, I bring a global mindset to my projects.
+   I thrive on diversity, innovation, and the thrill of solving problems that matter. 
+   My expertise in AI, MLOps, and cloud computing is more than technical—I use it to make a difference.
+
+   Let’s connect if you believe in AI for good, collaboration over competition, and building solutions that leave the world a little better than we found it. 🚀
+
+   📧 Reach me at 𝐲𝐮𝐣𝐚𝐧𝐬𝐚𝐲𝐚@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦.
+
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
