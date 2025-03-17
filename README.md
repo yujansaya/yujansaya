@@ -1,6 +1,6 @@
 <div align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=🚀+Shaping+Tomorrow+with+AI/ML" alt="Typing SVG" /></a></div>
 <h1 align="center"; font-family='serif';> 👋 Hello, World! I'm Zhansaya</h1>
-<img width="1100" alt="Screenshot 2024-04-27 at 3 06 36 PM" src="https://github.com/yujansaya/yujansaya/assets/109923065/3ff209b7-f27d-4b9f-acbb-1f5cd1074568">
+<img width="1100" alt="Screenshot 2024-04-27 at 3 06 36 PM" src="https://github.com/yujansaya/yujansaya/blob/main/meme.png">
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=ML/AI+Engineer;Software+Developer;%20LLMs%20|%20GenAI%20|%20DataScience+Enthusiast;%20Python%20|%20PyTorch%20|%20Tensorflow|%20Scikit-learn;Continuous%20learner" alt="Typing SVG" /></a></div>
 
